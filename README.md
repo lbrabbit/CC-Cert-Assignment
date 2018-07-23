@@ -1,5 +1,5 @@
 # CC-Cert-Assignment
-Assignment for Creative Commons Certificate for Educators and Librarians 
+Assignments for Creative Commons Certificate for Educators and Librarians 
 
 The project content my assignments for the Assignment for Creative Commons Certificate. Assignment 1-? are designed to promote Creative Commons on Instagram. The content are stored in the OpenDocument format ODP, which is best to be edited by Libreoffice Impress. The slides contain the images to be post on Instagram and the text comments are in the notes. I also export the slides and the notes into pdf format for easy access.
 
