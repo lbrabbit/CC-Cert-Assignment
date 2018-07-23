@@ -5,4 +5,4 @@ The project content my assignments for the Assignment for Creative Commons Certi
 
 I am not a designer at all and I only use the fonts that I can find on my Ubuntu 16.04. I share my work in a way that it can be modified and hopeful someone can make them more beautiful ;)
 
-The project aimed to be released under the more relaxed Creative Commons Licence, i.e. CC-BY 4.0. But some part of the project, e.g. For the Instagram image remixed on Ryanne Liu's cat photo, which was released under CC-BY-NC 2.0, the remix will be released under CC-BY-NC 2.0 as well.
+The project aimed to be released under the more relaxed Creative Commons Licence, i.e. CC-BY 4.0. But some part of the project, e.g. For the Instagram image remixed on Ryanne Lai's cat photo, which was released under CC-BY-NC 2.0, the remix will be released under CC-BY-NC 2.0 as well.
